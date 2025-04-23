@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c5092d75-eb50-4a6a-8378-4a16332475d4)# Cluster-NHL-Forwards-Unsupervised
+# Cluster-NHL-Forwards-Unsupervised
 Final project for Unsupervised Learning
 
 # Clustering NHL Forwards by Game Statistics
