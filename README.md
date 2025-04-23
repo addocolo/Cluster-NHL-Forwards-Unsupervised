@@ -1,7 +1,6 @@
-# Cluster-NHL-Forwards-Unsupervised
-Final project for Unsupervised Learning
-
 # Clustering NHL Forwards by Game Statistics
+
+Final project for Unsupervised Learning
 
 In this study we will use unsupervised learning techniques to attempt to cluster ice hockey forwards from the National Hockey League into groups based on their in-game statistics from the 2023-24 season. We will analyze the statistics of each group's players and assign a label and description to the players. By using unsupervised learning we hope to uncover natural groupings of players based on their statistics.
 
